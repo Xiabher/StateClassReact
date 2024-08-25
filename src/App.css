@@ -1,0 +1,12 @@
+
+.footer {
+  font-size: xx-small;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: auto; /* Set the height of the footer */
+  background-color: #282c34; /* Optional: Add a background color */
+  color: white; /* Optional: Set text color */
+  text-align: center; /* Optional: Center the text */
+  line-height: auto; /* Optional: Vertically center text if single-line */
+}
